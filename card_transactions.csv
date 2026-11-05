@@ -1,0 +1,1023 @@
+TransactionID,Merchant,City,Amount,MilesFromHome
+T0001,Electronics,"Chicago, IL",949.99,460.0
+T0002,Home goods,"Blacksburg, VA",11.53,1.0
+T0003,Pharmacy,"Christiansburg, VA",38.23,9.5
+T0004,Groceries,"Blacksburg, VA",63.13,4.0
+T0005,Groceries,"Blacksburg, VA",36.0,2.5
+T0006,Restaurant,"Blacksburg, VA",36.79,3.9
+T0007,Gas,"Blacksburg, VA",29.1,3.9
+T0008,Clothing,"Radford, VA",47.48,12.2
+T0009,Restaurant,"Blacksburg, VA",44.21,3.4
+T0010,Restaurant,"Blacksburg, VA",32.29,1.8
+T0011,Coffee,"Christiansburg, VA",17.08,8.4
+T0012,Groceries,"Blacksburg, VA",211.79,0.8
+T0013,Groceries,"Blacksburg, VA",60.41,3.3
+T0014,Coffee,"Radford, VA",5.71,15.3
+T0015,Groceries,"Blacksburg, VA",31.58,1.1
+T0016,Gas,"Christiansburg, VA",52.08,12.0
+T0017,Online/electronics,"Blacksburg, VA",71.17,3.3
+T0018,Restaurant,"Blacksburg, VA",21.17,4.8
+T0019,Online/electronics,"Blacksburg, VA",116.23,0.5
+T0020,Online/electronics,"Blacksburg, VA",88.13,2.9
+T0021,Coffee,"Blacksburg, VA",7.25,0.7
+T0022,Groceries,"Pearisburg, VA",60.42,19.1
+T0023,Home goods,"Blacksburg, VA",47.75,3.0
+T0024,Restaurant,"Blacksburg, VA",29.15,0.3
+T0025,Pharmacy,"Blacksburg, VA",3.82,0.4
+T0026,Coffee,"Myrtle Beach, SC",5.95,274.5
+T0027,Restaurant,"Blacksburg, VA",20.86,2.7
+T0028,Groceries,"Christiansburg, VA",87.01,7.7
+T0029,Clothing,"Blacksburg, VA",44.94,4.3
+T0030,Home goods,"Blacksburg, VA",103.96,0.3
+T0031,Pharmacy,"Blacksburg, VA",9.35,6.0
+T0032,Online/electronics,"Christiansburg, VA",98.56,7.5
+T0033,Pharmacy,"Blacksburg, VA",3.96,2.0
+T0034,Coffee,"Blacksburg, VA",10.44,1.0
+T0035,Coffee,"Christiansburg, VA",6.73,10.5
+T0036,Gas,"Blacksburg, VA",50.13,5.4
+T0037,Car repair,"Blacksburg, VA",244.71,2.3
+T0038,Gas,"Christiansburg, VA",38.69,6.1
+T0039,Groceries,"Pearisburg, VA",43.99,21.9
+T0040,Groceries,"Pearisburg, VA",78.21,19.2
+T0041,Groceries,"Greensboro, NC",70.73,110.3
+T0042,Gas,"Pearisburg, VA",35.47,18.9
+T0043,Pharmacy,"Bristol, VA",26.59,114.0
+T0044,Coffee,"Bluefield, WV",4.99,53.3
+T0045,Home goods,"Radford, VA",36.91,16.3
+T0046,Home goods,"Radford, VA",6.71,16.6
+T0047,Groceries,"Radford, VA",87.12,12.4
+T0048,Restaurant,"Lynchburg, VA",23.34,87.6
+T0049,Restaurant,"Blacksburg, VA",30.23,0.4
+T0050,Home goods,"Blacksburg, VA",121.19,1.6
+T0051,Gas,"Blacksburg, VA",37.63,5.6
+T0052,Groceries,"Myrtle Beach, SC",71.35,284.4
+T0053,Groceries,"Blacksburg, VA",82.68,0.4
+T0054,Coffee,"Christiansburg, VA",5.86,11.9
+T0055,Home goods,"Blacksburg, VA",24.72,4.3
+T0056,Groceries,"Wytheville, VA",55.2,48.1
+T0057,Clothing,"Blacksburg, VA",51.08,3.5
+T0058,Coffee,"Christiansburg, VA",8.57,10.9
+T0059,Gas,"Blacksburg, VA",41.56,2.5
+T0060,Gas,"Blacksburg, VA",37.81,3.4
+T0061,Gas,"Bluefield, WV",36.19,56.1
+T0062,Restaurant,"Blacksburg, VA",24.42,5.3
+T0063,Restaurant,"Christiansburg, VA",27.17,10.2
+T0064,Coffee,"Christiansburg, VA",4.07,6.4
+T0065,Coffee,"Christiansburg, VA",4.01,11.0
+T0066,Restaurant,"Radford, VA",30.12,17.9
+T0067,Coffee,"Radford, VA",5.5,17.8
+T0068,Coffee,"Pearisburg, VA",7.11,22.3
+T0069,Home goods,"Blacksburg, VA",76.05,5.9
+T0070,Coffee,"Blacksburg, VA",7.58,0.9
+T0071,Home goods,"Blacksburg, VA",29.88,5.7
+T0072,Groceries,"Christiansburg, VA",50.26,7.8
+T0073,Restaurant,"Christiansburg, VA",18.56,10.7
+T0074,Coffee,"Christiansburg, VA",6.95,11.4
+T0075,Gas,"Blacksburg, VA",60.74,5.9
+T0076,Coffee,"Blacksburg, VA",5.22,0.7
+T0077,Restaurant,"Blacksburg, VA",11.25,5.8
+T0078,Gas,"Blacksburg, VA",42.27,1.7
+T0079,Gas,"Bristol, VA",34.05,114.0
+T0080,Home goods,"Greensboro, NC",12.32,112.0
+T0081,Coffee,"Christiansburg, VA",9.58,8.3
+T0082,Pharmacy,"Blacksburg, VA",7.67,5.3
+T0083,Home goods,"Lynchburg, VA",18.4,86.4
+T0084,Car repair,"Blacksburg, VA",196.3,2.0
+T0085,Restaurant,"Pearisburg, VA",11.03,20.9
+T0086,Coffee,"Myrtle Beach, SC",7.25,275.1
+T0087,Restaurant,"Christiansburg, VA",45.31,8.6
+T0088,Coffee,"Blacksburg, VA",6.48,1.9
+T0089,Restaurant,"Christiansburg, VA",25.77,8.7
+T0090,Restaurant,"Christiansburg, VA",48.45,6.4
+T0091,Coffee,"Blacksburg, VA",8.46,5.8
+T0092,Groceries,"Blacksburg, VA",87.68,6.0
+T0093,Gas,"Radford, VA",41.98,15.6
+T0094,Coffee,"Blacksburg, VA",7.41,2.6
+T0095,Gas,"Blacksburg, VA",33.2,4.0
+T0096,Online/electronics,"Christiansburg, VA",45.32,10.0
+T0097,Groceries,"Radford, VA",209.54,17.7
+T0098,Coffee,"Blacksburg, VA",10.34,4.2
+T0099,Restaurant,"Christiansburg, VA",8.35,6.4
+T0100,Restaurant,"Blacksburg, VA",38.13,2.7
+T0101,Clothing,"Blacksburg, VA",37.39,1.7
+T0102,Home goods,"Blacksburg, VA",33.15,0.9
+T0103,Groceries,"Christiansburg, VA",32.74,9.6
+T0104,Groceries,"Blacksburg, VA",95.3,3.0
+T0105,Coffee,"Blacksburg, VA",5.76,4.9
+T0106,Groceries,"Christiansburg, VA",99.5,9.4
+T0107,Restaurant,"Salem, VA",46.17,29.0
+T0108,Groceries,"Blacksburg, VA",66.63,0.4
+T0109,Groceries,"Blacksburg, VA",92.69,5.5
+T0110,Restaurant,"Christiansburg, VA",67.24,11.6
+T0111,Restaurant,"Radford, VA",36.58,14.1
+T0112,Restaurant,"Blacksburg, VA",13.45,2.9
+T0113,Coffee,"Blacksburg, VA",4.74,4.2
+T0114,Restaurant,"Blacksburg, VA",78.15,0.6
+T0115,Groceries,"Blacksburg, VA",37.23,0.7
+T0116,Coffee,"Christiansburg, VA",3.5,9.9
+T0117,Gas,"Blacksburg, VA",42.4,2.8
+T0118,Gas,"Christiansburg, VA",56.45,8.3
+T0119,Gas,"Radford, VA",47.17,15.3
+T0120,Groceries,"Blacksburg, VA",32.74,4.0
+T0121,Restaurant,"Christiansburg, VA",29.03,10.7
+T0122,Groceries,"Blacksburg, VA",116.79,5.5
+T0123,Gas,"Christiansburg, VA",39.38,11.8
+T0124,Electronics,"Blacksburg, VA",899.99,4.2
+T0125,Coffee,"Blacksburg, VA",5.25,3.7
+T0126,Groceries,"Blacksburg, VA",89.86,1.5
+T0127,Gas,"Blacksburg, VA",37.91,2.9
+T0128,Clothing,"Radford, VA",40.84,15.2
+T0129,Restaurant,"Pearisburg, VA",18.82,19.4
+T0130,Groceries,"Christiansburg, VA",30.23,10.2
+T0131,Clothing,"Christiansburg, VA",118.11,6.1
+T0132,Pharmacy,"Christiansburg, VA",15.7,9.2
+T0133,Groceries,"Blacksburg, VA",115.97,3.0
+T0134,Pharmacy,"Blacksburg, VA",41.65,5.0
+T0135,Restaurant,"Christiansburg, VA",34.83,7.2
+T0136,Groceries,"Blacksburg, VA",27.49,0.8
+T0137,Home goods,"Blacksburg, VA",18.63,4.4
+T0138,Home goods,"Christiansburg, VA",42.8,10.6
+T0139,Groceries,"Blacksburg, VA",46.33,1.6
+T0140,Pharmacy,"Roanoke, VA",22.36,39.0
+T0141,Coffee,"Christiansburg, VA",4.61,8.9
+T0142,Coffee,"Christiansburg, VA",5.24,9.2
+T0143,Pharmacy,"Charlottesville, VA",24.05,140.9
+T0144,Groceries,"Lynchburg, VA",83.27,87.1
+T0145,Clothing,"Blacksburg, VA",45.5,4.5
+T0146,Coffee,"Bristol, VA",5.93,111.5
+T0147,Groceries,"Lynchburg, VA",47.49,87.6
+T0148,Restaurant,"Blacksburg, VA",128.91,2.9
+T0149,Coffee,"Blacksburg, VA",9.71,3.5
+T0150,Restaurant,"Radford, VA",11.57,13.4
+T0151,Home goods,"Blacksburg, VA",90.2,5.2
+T0152,Restaurant,"Christiansburg, VA",45.89,6.8
+T0153,Groceries,"Christiansburg, VA",66.12,11.1
+T0154,Car repair,"Charlottesville, VA",346.61,137.3
+T0155,Home goods,"Pearisburg, VA",40.05,21.8
+T0156,Online/electronics,"Blacksburg, VA",264.98,3.4
+T0157,Gas,"Christiansburg, VA",27.45,6.9
+T0158,Groceries,"Charlottesville, VA",86.05,141.5
+T0159,Home goods,"Christiansburg, VA",109.71,7.7
+T0160,Home goods,"Blacksburg, VA",20.46,2.5
+T0161,Restaurant,"Myrtle Beach, SC",85.6,283.2
+T0162,Groceries,"Radford, VA",40.56,13.1
+T0163,Gas,"Blacksburg, VA",43.53,0.6
+T0164,Gas,"Myrtle Beach, SC",39.8,282.6
+T0165,Home goods,"Christiansburg, VA",22.26,11.1
+T0166,Restaurant,"Blacksburg, VA",21.21,5.5
+T0167,Restaurant,"Blacksburg, VA",23.34,4.5
+T0168,Gas,"Christiansburg, VA",71.83,11.2
+T0169,Restaurant,"Blacksburg, VA",26.48,5.1
+T0170,Gas,"Blacksburg, VA",48.85,2.4
+T0171,Coffee,"Blacksburg, VA",6.6,1.7
+T0172,Car repair,"Blacksburg, VA",192.36,4.0
+T0173,Online/electronics,"Bristol, VA",87.11,113.1
+T0174,Restaurant,"Blacksburg, VA",26.17,2.5
+T0175,Home goods,"Blacksburg, VA",73.05,1.0
+T0176,Online/electronics,"Blacksburg, VA",198.5,5.8
+T0177,Groceries,"Blacksburg, VA",44.38,1.7
+T0178,Gas,"Blacksburg, VA",37.95,3.1
+T0179,Clothing,"Christiansburg, VA",55.1,10.8
+T0180,Online/electronics,"Pearisburg, VA",179.7,23.4
+T0181,Gas,"Blacksburg, VA",37.54,4.2
+T0182,Gas,"Blacksburg, VA",35.6,3.3
+T0183,Groceries,"Charlottesville, VA",31.29,137.1
+T0184,Pharmacy,"Radford, VA",26.15,12.8
+T0185,Restaurant,"Blacksburg, VA",34.73,5.9
+T0186,Gas,"Christiansburg, VA",28.53,6.9
+T0187,Groceries,"Blacksburg, VA",86.19,1.2
+T0188,Restaurant,"Christiansburg, VA",18.08,7.0
+T0189,Pharmacy,"Christiansburg, VA",16.85,11.1
+T0190,Groceries,"Blacksburg, VA",114.27,2.2
+T0191,Coffee,"Radford, VA",7.13,15.9
+T0192,Coffee,"Lynchburg, VA",2.37,82.7
+T0193,Groceries,"Christiansburg, VA",45.47,6.5
+T0194,Pharmacy,"Blacksburg, VA",7.85,4.8
+T0195,Gas,"Blacksburg, VA",44.96,1.6
+T0196,Restaurant,"Blacksburg, VA",11.64,4.5
+T0197,Home goods,"Blacksburg, VA",113.51,5.1
+T0198,Pharmacy,"Blacksburg, VA",13.01,5.2
+T0199,Pharmacy,"Blacksburg, VA",21.95,0.3
+T0200,Gas,"Blacksburg, VA",48.94,1.7
+T0201,Home goods,"Blacksburg, VA",11.11,0.6
+T0202,Coffee,"Blacksburg, VA",5.85,2.2
+T0203,Home goods,"Blacksburg, VA",104.06,5.6
+T0204,Groceries,"Radford, VA",101.0,13.0
+T0205,Restaurant,"Blacksburg, VA",24.92,3.2
+T0206,Pharmacy,"Christiansburg, VA",46.75,8.5
+T0207,Home goods,"Blacksburg, VA",105.29,4.5
+T0208,Gas,"Blacksburg, VA",55.23,1.4
+T0209,Gas,"Christiansburg, VA",57.09,10.0
+T0210,Gas,"Roanoke, VA",35.05,35.4
+T0211,Restaurant,"Christiansburg, VA",9.27,7.2
+T0212,Coffee,"Christiansburg, VA",6.72,6.9
+T0213,Restaurant,"Radford, VA",32.0,16.2
+T0214,Groceries,"Blacksburg, VA",90.39,4.1
+T0215,Groceries,"Blacksburg, VA",75.17,1.3
+T0216,Restaurant,"Blacksburg, VA",73.04,0.7
+T0217,Coffee,"Pearisburg, VA",5.39,21.0
+T0218,Groceries,"Blacksburg, VA",96.82,2.2
+T0219,Groceries,"Radford, VA",27.5,15.2
+T0220,Restaurant,"Wytheville, VA",35.44,49.5
+T0221,Restaurant,"Blacksburg, VA",11.84,4.7
+T0222,Groceries,"Christiansburg, VA",108.69,7.4
+T0223,Coffee,"Blacksburg, VA",8.05,4.8
+T0224,Coffee,"Radford, VA",3.79,16.1
+T0225,Gas,"Blacksburg, VA",54.74,0.5
+T0226,Restaurant,"Blacksburg, VA",42.98,3.1
+T0227,Groceries,"Radford, VA",29.44,16.5
+T0228,Coffee,"Blacksburg, VA",4.98,1.9
+T0229,Restaurant,"Radford, VA",115.61,12.0
+T0230,Groceries,"Blacksburg, VA",40.41,0.6
+T0231,Clothing,"Christiansburg, VA",14.57,10.8
+T0232,Groceries,"Blacksburg, VA",91.67,2.3
+T0233,Pharmacy,"Blacksburg, VA",23.14,2.1
+T0234,Restaurant,"Salem, VA",48.8,31.5
+T0235,Groceries,"Christiansburg, VA",69.45,6.0
+T0236,Restaurant,"Radford, VA",29.01,17.5
+T0237,Home goods,"Christiansburg, VA",16.74,10.9
+T0238,Home goods,"Blacksburg, VA",21.7,0.9
+T0239,Home goods,"Pearisburg, VA",131.53,21.7
+T0240,Clothing,"Roanoke, VA",76.8,39.2
+T0241,Clothing,"Blacksburg, VA",32.98,2.3
+T0242,Clothing,"Radford, VA",33.96,12.3
+T0243,Groceries,"Pearisburg, VA",251.02,20.0
+T0244,Restaurant,"Radford, VA",16.52,17.3
+T0245,Online/electronics,"Greensboro, NC",71.33,109.6
+T0246,Groceries,"Roanoke, VA",70.63,40.4
+T0247,Home goods,"Blacksburg, VA",24.58,3.5
+T0248,Coffee,"Blacksburg, VA",4.15,2.9
+T0249,Gas,"Blacksburg, VA",40.25,5.5
+T0250,Gas,"Blacksburg, VA",43.27,4.5
+T0251,Pharmacy,"Radford, VA",22.85,16.3
+T0252,Groceries,"Christiansburg, VA",58.58,11.0
+T0253,Groceries,"Blacksburg, VA",114.78,2.3
+T0254,Pharmacy,"Blacksburg, VA",17.44,0.5
+T0255,Coffee,"Christiansburg, VA",16.12,11.0
+T0256,Restaurant,"Pearisburg, VA",51.71,19.4
+T0257,Clothing,"Radford, VA",146.95,12.9
+T0258,Pharmacy,"Radford, VA",12.24,17.2
+T0259,Gas,"Pearisburg, VA",33.62,21.8
+T0260,Clothing,"Blacksburg, VA",72.98,0.8
+T0261,Restaurant,"Radford, VA",37.71,15.8
+T0262,Coffee,"Blacksburg, VA",7.59,1.4
+T0263,Restaurant,"Radford, VA",17.36,17.5
+T0264,Coffee,"Blacksburg, VA",5.37,5.5
+T0265,Clothing,"Blacksburg, VA",132.95,2.4
+T0266,Groceries,"Radford, VA",77.67,15.7
+T0267,Groceries,"Christiansburg, VA",63.28,7.3
+T0268,Groceries,"Blacksburg, VA",38.14,4.4
+T0269,Home goods,"Blacksburg, VA",149.33,2.1
+T0270,Car repair,"Christiansburg, VA",589.24,8.8
+T0271,Coffee,"Radford, VA",6.25,17.1
+T0272,Restaurant,"Christiansburg, VA",29.27,9.5
+T0273,Home goods,"Blacksburg, VA",364.06,5.2
+T0274,Coffee,"Blacksburg, VA",5.06,4.5
+T0275,Coffee,"Blacksburg, VA",6.4,3.0
+T0276,Restaurant,"Christiansburg, VA",39.65,7.3
+T0277,Gas,"Blacksburg, VA",32.44,3.1
+T0278,Restaurant,"Radford, VA",49.13,17.4
+T0279,Restaurant,"Radford, VA",22.91,12.9
+T0280,Groceries,"Lynchburg, VA",21.74,82.0
+T0281,Gas,"Pearisburg, VA",44.49,23.0
+T0282,Clothing,"Blacksburg, VA",169.18,1.9
+T0283,Groceries,"Blacksburg, VA",114.76,4.9
+T0284,Coffee,"Lynchburg, VA",8.68,83.8
+T0285,Groceries,"Blacksburg, VA",46.01,5.3
+T0286,Groceries,"Blacksburg, VA",74.72,2.2
+T0287,Groceries,"Christiansburg, VA",94.33,10.2
+T0288,Home goods,"Salem, VA",252.35,29.7
+T0289,Gas,"Blacksburg, VA",54.73,0.6
+T0290,Restaurant,"Christiansburg, VA",105.11,6.8
+T0291,Groceries,"Blacksburg, VA",110.54,3.4
+T0292,Online/electronics,"Blacksburg, VA",113.33,2.0
+T0293,Restaurant,"Blacksburg, VA",32.57,5.7
+T0294,Gas,"Christiansburg, VA",38.54,10.7
+T0295,Clothing,"Blacksburg, VA",26.61,0.6
+T0296,Pharmacy,"Christiansburg, VA",60.73,8.7
+T0297,Coffee,"Blacksburg, VA",4.57,2.9
+T0298,Groceries,"Blacksburg, VA",45.54,2.7
+T0299,Coffee,"Blacksburg, VA",4.79,1.7
+T0300,Groceries,"Blacksburg, VA",98.02,1.3
+T0301,Groceries,"Christiansburg, VA",41.57,7.7
+T0302,Restaurant,"Blacksburg, VA",70.26,5.0
+T0303,Gas,"Blacksburg, VA",52.08,4.5
+T0304,Clothing,"Christiansburg, VA",123.62,8.9
+T0305,Groceries,"Blacksburg, VA",69.52,4.7
+T0306,Restaurant,"Christiansburg, VA",23.38,7.7
+T0307,Car repair,"Blacksburg, VA",173.98,2.2
+T0308,Pharmacy,"Blacksburg, VA",10.33,2.6
+T0309,Pharmacy,"Blacksburg, VA",16.68,1.0
+T0310,Coffee,"Christiansburg, VA",7.51,7.4
+T0311,Restaurant,"Blacksburg, VA",33.97,2.8
+T0312,Restaurant,"Myrtle Beach, SC",62.75,284.6
+T0313,Coffee,"Bluefield, WV",3.97,54.9
+T0314,Gas,"Pearisburg, VA",76.62,21.2
+T0315,Coffee,"Christiansburg, VA",4.6,11.9
+T0316,Gas,"Christiansburg, VA",32.54,11.8
+T0317,Home goods,"Blacksburg, VA",15.42,5.2
+T0318,Groceries,"Blacksburg, VA",135.61,1.9
+T0319,Gas,"Blacksburg, VA",36.29,5.8
+T0320,Pharmacy,"Blacksburg, VA",21.26,2.7
+T0321,Clothing,"Radford, VA",70.86,16.8
+T0322,Restaurant,"Blacksburg, VA",142.18,1.4
+T0323,Coffee,"Christiansburg, VA",6.1,7.9
+T0324,Gas,"Christiansburg, VA",28.61,8.9
+T0325,Restaurant,"Bluefield, WV",71.55,55.9
+T0326,Coffee,"Blacksburg, VA",9.1,0.7
+T0327,Restaurant,"Christiansburg, VA",18.38,10.8
+T0328,Groceries,"Pearisburg, VA",41.44,23.2
+T0329,Groceries,"Christiansburg, VA",38.28,9.8
+T0330,Groceries,"Blacksburg, VA",67.48,2.4
+T0331,Home goods,"Blacksburg, VA",22.3,3.3
+T0332,Pharmacy,"Blacksburg, VA",11.97,1.7
+T0333,Restaurant,"Blacksburg, VA",21.81,1.2
+T0334,Restaurant,"Blacksburg, VA",16.98,5.0
+T0335,Gas,"Blacksburg, VA",29.18,0.4
+T0336,Online/electronics,"Blacksburg, VA",159.9,2.0
+T0337,Restaurant,"Blacksburg, VA",30.0,3.5
+T0338,Clothing,"Blacksburg, VA",14.41,2.2
+T0339,Coffee,"Radford, VA",4.4,15.7
+T0340,Restaurant,"Wytheville, VA",13.17,52.6
+T0341,Gas,"Myrtle Beach, SC",44.1,285.2
+T0342,Groceries,"Pearisburg, VA",61.83,18.7
+T0343,Home goods,"Christiansburg, VA",73.07,8.0
+T0344,Clothing,"Blacksburg, VA",52.55,4.1
+T0345,Gas,"Blacksburg, VA",29.69,5.6
+T0346,Pharmacy,"Blacksburg, VA",24.81,3.4
+T0347,Online/electronics,"Christiansburg, VA",98.52,7.6
+T0348,Pharmacy,"Blacksburg, VA",18.94,5.1
+T0349,Gas,"Blacksburg, VA",53.51,5.6
+T0350,Online/electronics,"Blacksburg, VA",44.93,4.7
+T0351,Pharmacy,"Bristol, VA",11.71,113.4
+T0352,Groceries,"Blacksburg, VA",52.11,2.2
+T0353,Restaurant,"Blacksburg, VA",93.04,3.4
+T0354,Gas,"Blacksburg, VA",35.9,2.1
+T0355,Restaurant,"Blacksburg, VA",47.41,3.2
+T0356,Coffee,"Charlottesville, VA",3.39,141.6
+T0357,Groceries,"Radford, VA",159.98,13.9
+T0358,Groceries,"Radford, VA",114.02,14.8
+T0359,Clothing,"Christiansburg, VA",250.2,7.0
+T0360,Online/electronics,"Blacksburg, VA",39.79,3.4
+T0361,Gas,"Blacksburg, VA",37.83,5.0
+T0362,Groceries,"Blacksburg, VA",38.65,4.0
+T0363,Coffee,"Radford, VA",4.23,13.3
+T0364,Groceries,"Radford, VA",79.85,17.0
+T0365,Clothing,"Christiansburg, VA",101.18,11.7
+T0366,Gas,"Blacksburg, VA",39.58,4.8
+T0367,Coffee,"Blacksburg, VA",4.67,2.7
+T0368,Groceries,"Christiansburg, VA",138.71,6.7
+T0369,Online/electronics,"Pearisburg, VA",172.81,23.7
+T0370,Restaurant,"Blacksburg, VA",9.25,2.2
+T0371,Clothing,"Blacksburg, VA",182.59,2.9
+T0372,Coffee,"Blacksburg, VA",9.34,1.8
+T0373,Home goods,"Blacksburg, VA",38.02,1.7
+T0374,Clothing,"Christiansburg, VA",185.09,10.2
+T0375,Restaurant,"Blacksburg, VA",21.63,2.8
+T0376,Restaurant,"Pearisburg, VA",58.44,22.0
+T0377,Groceries,"Blacksburg, VA",67.89,0.4
+T0378,Coffee,"Roanoke, VA",5.06,39.3
+T0379,Groceries,"Christiansburg, VA",57.21,11.5
+T0380,Coffee,"Blacksburg, VA",6.27,5.7
+T0381,Gas,"Blacksburg, VA",63.73,4.2
+T0382,Groceries,"Radford, VA",72.58,12.1
+T0383,Electronics,"Dallas, TX",1050.0,880.0
+T0384,Clothing,"Blacksburg, VA",30.36,1.3
+T0385,Online/electronics,"Blacksburg, VA",109.5,1.0
+T0386,Clothing,"Bristol, VA",89.54,114.9
+T0387,Online/electronics,"Christiansburg, VA",73.5,11.4
+T0388,Gas,"Blacksburg, VA",33.96,5.9
+T0389,Clothing,"Blacksburg, VA",42.56,3.0
+T0390,Groceries,"Blacksburg, VA",156.41,4.6
+T0391,Gas,"Blacksburg, VA",57.13,5.7
+T0392,Gas,"Blacksburg, VA",39.0,5.4
+T0393,Home goods,"Blacksburg, VA",37.75,3.4
+T0394,Coffee,"Christiansburg, VA",4.34,6.8
+T0395,Clothing,"Blacksburg, VA",34.72,2.4
+T0396,Restaurant,"Myrtle Beach, SC",48.2,283.2
+T0397,Groceries,"Christiansburg, VA",42.91,6.4
+T0398,Electronics,"Phoenix, AZ",1284.0,1790.0
+T0399,Home goods,"Blacksburg, VA",18.71,4.9
+T0400,Clothing,"Christiansburg, VA",47.78,10.3
+T0401,Coffee,"Bristol, VA",6.51,113.0
+T0402,Gas,"Blacksburg, VA",37.56,3.0
+T0403,Clothing,"Pearisburg, VA",89.88,21.4
+T0404,Coffee,"Blacksburg, VA",7.97,3.8
+T0405,Coffee,"Blacksburg, VA",8.6,4.7
+T0406,Coffee,"Blacksburg, VA",7.24,3.1
+T0407,Clothing,"Blacksburg, VA",14.37,0.5
+T0408,Clothing,"Blacksburg, VA",36.37,3.3
+T0409,Home goods,"Blacksburg, VA",82.17,1.4
+T0410,Coffee,"Blacksburg, VA",5.65,4.3
+T0411,Groceries,"Blacksburg, VA",37.8,3.7
+T0412,Groceries,"Blacksburg, VA",46.16,5.9
+T0413,Restaurant,"Pearisburg, VA",23.95,19.0
+T0414,Groceries,"Christiansburg, VA",45.25,11.3
+T0415,Coffee,"Christiansburg, VA",7.25,8.8
+T0416,Groceries,"Blacksburg, VA",61.76,5.0
+T0417,Pharmacy,"Blacksburg, VA",17.65,1.0
+T0418,Pharmacy,"Christiansburg, VA",22.98,8.3
+T0419,Restaurant,"Pearisburg, VA",15.42,23.2
+T0420,Pharmacy,"Blacksburg, VA",14.6,5.1
+T0421,Restaurant,"Blacksburg, VA",18.69,5.4
+T0422,Coffee,"Christiansburg, VA",5.88,7.4
+T0423,Restaurant,"Christiansburg, VA",10.37,8.9
+T0424,Gas,"Pearisburg, VA",59.16,21.8
+T0425,Coffee,"Blacksburg, VA",5.51,2.6
+T0426,Coffee,"Pearisburg, VA",5.47,19.8
+T0427,Coffee,"Christiansburg, VA",9.93,9.8
+T0428,Groceries,"Blacksburg, VA",97.04,3.4
+T0429,Coffee,"Blacksburg, VA",9.82,5.0
+T0430,Restaurant,"Roanoke, VA",14.11,40.4
+T0431,Restaurant,"Radford, VA",109.21,13.9
+T0432,Online/electronics,"Christiansburg, VA",139.37,9.3
+T0433,Coffee,"Blacksburg, VA",5.81,5.1
+T0434,Clothing,"Blacksburg, VA",182.5,5.1
+T0435,Restaurant,"Blacksburg, VA",13.51,5.1
+T0436,Restaurant,"Blacksburg, VA",31.68,5.3
+T0437,Coffee,"Christiansburg, VA",4.14,8.0
+T0438,Gas,"Blacksburg, VA",44.46,1.1
+T0439,Restaurant,"Blacksburg, VA",12.7,1.3
+T0440,Car repair,"Blacksburg, VA",225.19,3.5
+T0441,Clothing,"Radford, VA",26.25,16.6
+T0442,Gas,"Christiansburg, VA",64.14,11.7
+T0443,Restaurant,"Christiansburg, VA",29.19,8.5
+T0444,Restaurant,"Wytheville, VA",17.66,52.2
+T0445,Home goods,"Blacksburg, VA",92.01,1.3
+T0446,Groceries,"Christiansburg, VA",50.94,6.0
+T0447,Groceries,"Pearisburg, VA",131.57,19.3
+T0448,Groceries,"Blacksburg, VA",141.41,5.1
+T0449,Restaurant,"Blacksburg, VA",18.07,5.4
+T0450,Car repair,"Radford, VA",191.88,13.2
+T0451,Home goods,"Blacksburg, VA",40.93,2.8
+T0452,Online/electronics,"Christiansburg, VA",1045.13,6.7
+T0453,Coffee,"Radford, VA",6.78,12.6
+T0454,Restaurant,"Blacksburg, VA",68.07,5.3
+T0455,Groceries,"Blacksburg, VA",48.98,3.8
+T0456,Home goods,"Blacksburg, VA",8.04,5.7
+T0457,Coffee,"Wytheville, VA",6.23,49.5
+T0458,Groceries,"Salem, VA",170.67,29.2
+T0459,Gas,"Roanoke, VA",31.26,38.1
+T0460,Pharmacy,"Pearisburg, VA",37.69,21.2
+T0461,Groceries,"Roanoke, VA",58.32,38.7
+T0462,Restaurant,"Blacksburg, VA",17.01,5.6
+T0463,Pharmacy,"Bristol, VA",9.84,112.7
+T0464,Pharmacy,"Christiansburg, VA",39.21,9.9
+T0465,Pharmacy,"Blacksburg, VA",10.35,2.4
+T0466,Groceries,"Blacksburg, VA",52.13,0.4
+T0467,Coffee,"Christiansburg, VA",4.91,8.3
+T0468,Coffee,"Pearisburg, VA",5.78,19.5
+T0469,Pharmacy,"Radford, VA",14.93,17.4
+T0470,Coffee,"Christiansburg, VA",4.37,7.3
+T0471,Gas,"Blacksburg, VA",50.11,1.0
+T0472,Groceries,"Blacksburg, VA",101.78,1.6
+T0473,Restaurant,"Bluefield, WV",18.17,52.4
+T0474,Pharmacy,"Blacksburg, VA",11.49,5.0
+T0475,Coffee,"Blacksburg, VA",6.99,2.6
+T0476,Gas,"Pearisburg, VA",47.05,20.2
+T0477,Gas,"Blacksburg, VA",27.33,1.7
+T0478,Groceries,"Christiansburg, VA",138.76,10.0
+T0479,Pharmacy,"Radford, VA",16.3,12.0
+T0480,Car repair,"Blacksburg, VA",954.8,1.9
+T0481,Restaurant,"Radford, VA",10.68,12.3
+T0482,Groceries,"Bluefield, WV",54.23,57.1
+T0483,Car repair,"Blacksburg, VA",195.68,2.6
+T0484,Groceries,"Blacksburg, VA",71.79,0.8
+T0485,Clothing,"Blacksburg, VA",89.64,1.6
+T0486,Coffee,"Blacksburg, VA",3.89,3.0
+T0487,Gas,"Blacksburg, VA",51.02,4.9
+T0488,Coffee,"Christiansburg, VA",8.58,6.4
+T0489,Restaurant,"Christiansburg, VA",114.83,11.3
+T0490,Coffee,"Blacksburg, VA",5.43,2.2
+T0491,Home goods,"Blacksburg, VA",27.61,5.1
+T0492,Gas,"Christiansburg, VA",25.02,11.8
+T0493,Groceries,"Radford, VA",42.92,16.6
+T0494,Home goods,"Christiansburg, VA",40.64,7.9
+T0495,Gas,"Christiansburg, VA",50.54,9.2
+T0496,Clothing,"Blacksburg, VA",56.21,5.9
+T0497,Coffee,"Blacksburg, VA",4.26,2.3
+T0498,Gas,"Radford, VA",32.43,16.2
+T0499,Coffee,"Christiansburg, VA",4.37,10.5
+T0500,Restaurant,"Bristol, VA",19.9,112.8
+T0501,Gas,"Blacksburg, VA",59.77,5.4
+T0502,Gas,"Radford, VA",37.65,16.6
+T0503,Coffee,"Blacksburg, VA",4.48,0.7
+T0504,Gas,"Christiansburg, VA",28.84,9.6
+T0505,Coffee,"Christiansburg, VA",8.12,9.1
+T0506,Groceries,"Blacksburg, VA",25.87,5.1
+T0507,Clothing,"Radford, VA",55.64,14.5
+T0508,Pharmacy,"Blacksburg, VA",7.71,3.7
+T0509,Pharmacy,"Christiansburg, VA",19.13,9.6
+T0510,Coffee,"Christiansburg, VA",4.63,9.9
+T0511,Home goods,"Blacksburg, VA",57.17,1.2
+T0512,Groceries,"Blacksburg, VA",89.95,2.4
+T0513,Groceries,"Christiansburg, VA",117.39,11.8
+T0514,Home goods,"Blacksburg, VA",60.51,0.9
+T0515,Online/electronics,"Christiansburg, VA",124.91,10.5
+T0516,Groceries,"Blacksburg, VA",78.05,1.4
+T0517,Coffee,"Blacksburg, VA",5.41,5.9
+T0518,Gas,"Blacksburg, VA",45.99,1.8
+T0519,Gas,"Blacksburg, VA",31.7,3.9
+T0520,Restaurant,"Blacksburg, VA",14.54,3.6
+T0521,Groceries,"Blacksburg, VA",105.0,3.6
+T0522,Restaurant,"Christiansburg, VA",42.93,6.5
+T0523,Pharmacy,"Christiansburg, VA",15.14,10.8
+T0524,Coffee,"Radford, VA",6.21,17.9
+T0525,Groceries,"Christiansburg, VA",67.02,9.4
+T0526,Pharmacy,"Christiansburg, VA",11.61,6.8
+T0527,Pharmacy,"Christiansburg, VA",12.04,6.6
+T0528,Groceries,"Charlottesville, VA",52.44,137.7
+T0529,Restaurant,"Blacksburg, VA",35.31,3.1
+T0530,Home goods,"Blacksburg, VA",58.06,5.6
+T0531,Coffee,"Blacksburg, VA",9.33,4.1
+T0532,Restaurant,"Blacksburg, VA",44.94,4.1
+T0533,Gas,"Christiansburg, VA",28.12,6.4
+T0534,Gas,"Blacksburg, VA",69.9,5.2
+T0535,Clothing,"Blacksburg, VA",94.73,2.4
+T0536,Restaurant,"Salem, VA",24.93,30.4
+T0537,Online/electronics,"Blacksburg, VA",84.88,1.1
+T0538,Gas,"Blacksburg, VA",32.88,2.3
+T0539,Groceries,"Blacksburg, VA",45.67,2.8
+T0540,Groceries,"Pearisburg, VA",34.52,18.7
+T0541,Gas,"Blacksburg, VA",44.95,1.4
+T0542,Groceries,"Blacksburg, VA",71.65,2.0
+T0543,Jewelry,"New York, NY",1150.0,390.0
+T0544,Coffee,"Blacksburg, VA",11.18,0.6
+T0545,Clothing,"Greensboro, NC",75.52,108.5
+T0546,Restaurant,"Blacksburg, VA",19.05,1.5
+T0547,Groceries,"Christiansburg, VA",90.48,9.8
+T0548,Coffee,"Christiansburg, VA",5.96,9.9
+T0549,Gas,"Blacksburg, VA",29.28,1.6
+T0550,Pharmacy,"Christiansburg, VA",8.3,11.2
+T0551,Coffee,"Blacksburg, VA",11.33,3.5
+T0552,Restaurant,"Blacksburg, VA",24.49,5.4
+T0553,Coffee,"Blacksburg, VA",9.96,0.5
+T0554,Coffee,"Blacksburg, VA",4.24,2.2
+T0555,Coffee,"Christiansburg, VA",8.01,11.5
+T0556,Groceries,"Blacksburg, VA",94.68,4.1
+T0557,Clothing,"Blacksburg, VA",122.25,5.8
+T0558,Clothing,"Blacksburg, VA",119.56,1.0
+T0559,Gas,"Blacksburg, VA",29.75,1.1
+T0560,Clothing,"Blacksburg, VA",45.52,0.8
+T0561,Gas,"Christiansburg, VA",52.93,8.2
+T0562,Groceries,"Radford, VA",43.74,13.1
+T0563,Restaurant,"Christiansburg, VA",41.9,6.6
+T0564,Restaurant,"Blacksburg, VA",16.28,3.9
+T0565,Gas,"Christiansburg, VA",59.22,11.0
+T0566,Restaurant,"Blacksburg, VA",55.04,4.9
+T0567,Car repair,"Christiansburg, VA",498.69,6.9
+T0568,Restaurant,"Roanoke, VA",12.79,35.4
+T0569,Gas,"Salem, VA",40.11,32.1
+T0570,Coffee,"Blacksburg, VA",3.97,5.7
+T0571,Restaurant,"Blacksburg, VA",52.8,4.3
+T0572,Coffee,"Christiansburg, VA",2.77,7.1
+T0573,Gas,"Pearisburg, VA",47.6,22.5
+T0574,Home goods,"Christiansburg, VA",45.03,6.7
+T0575,Restaurant,"Blacksburg, VA",35.21,4.0
+T0576,Coffee,"Radford, VA",9.34,14.1
+T0577,Coffee,"Blacksburg, VA",9.24,0.6
+T0578,Groceries,"Pearisburg, VA",24.93,23.9
+T0579,Groceries,"Blacksburg, VA",91.22,2.8
+T0580,Car repair,"Blacksburg, VA",300.34,1.8
+T0581,Restaurant,"Blacksburg, VA",20.3,5.4
+T0582,Groceries,"Christiansburg, VA",60.46,10.5
+T0583,Home goods,"Blacksburg, VA",37.93,5.4
+T0584,Gas,"Blacksburg, VA",20.09,4.0
+T0585,Home goods,"Lynchburg, VA",88.57,83.1
+T0586,Online/electronics,"Blacksburg, VA",88.78,1.1
+T0587,Gas,"Christiansburg, VA",44.96,7.7
+T0588,Pharmacy,"Christiansburg, VA",37.18,8.9
+T0589,Home goods,"Blacksburg, VA",31.67,6.0
+T0590,Gas,"Blacksburg, VA",40.98,3.2
+T0591,Gas,"Radford, VA",37.86,17.7
+T0592,Coffee,"Blacksburg, VA",3.43,3.7
+T0593,Clothing,"Radford, VA",198.11,16.9
+T0594,Gas,"Blacksburg, VA",29.59,5.3
+T0595,Home goods,"Blacksburg, VA",130.25,3.1
+T0596,Restaurant,"Blacksburg, VA",32.39,0.9
+T0597,Pharmacy,"Blacksburg, VA",21.26,0.7
+T0598,Restaurant,"Radford, VA",58.23,13.2
+T0599,Clothing,"Christiansburg, VA",199.34,9.3
+T0600,Restaurant,"Christiansburg, VA",19.73,11.4
+T0601,Restaurant,"Christiansburg, VA",30.99,7.0
+T0602,Coffee,"Blacksburg, VA",12.2,5.3
+T0603,Gas,"Radford, VA",46.03,14.5
+T0604,Groceries,"Christiansburg, VA",34.16,8.3
+T0605,Groceries,"Christiansburg, VA",54.27,6.5
+T0606,Groceries,"Pearisburg, VA",165.43,18.3
+T0607,Pharmacy,"Pearisburg, VA",4.53,19.0
+T0608,Restaurant,"Blacksburg, VA",37.91,2.8
+T0609,Groceries,"Christiansburg, VA",40.27,10.0
+T0610,Restaurant,"Blacksburg, VA",8.63,0.7
+T0611,Restaurant,"Christiansburg, VA",14.86,11.7
+T0612,Coffee,"Blacksburg, VA",5.42,1.1
+T0613,Restaurant,"Bristol, VA",29.92,113.3
+T0614,Coffee,"Radford, VA",4.04,12.4
+T0615,Gas,"Blacksburg, VA",45.78,3.5
+T0616,Restaurant,"Radford, VA",14.61,16.5
+T0617,Coffee,"Pearisburg, VA",6.83,23.2
+T0618,Online/electronics,"Christiansburg, VA",122.77,11.3
+T0619,Restaurant,"Blacksburg, VA",28.37,5.6
+T0620,Home goods,"Blacksburg, VA",74.04,1.9
+T0621,Restaurant,"Blacksburg, VA",13.6,2.7
+T0622,Groceries,"Blacksburg, VA",69.15,4.3
+T0623,Groceries,"Blacksburg, VA",39.72,5.7
+T0624,Home goods,"Blacksburg, VA",56.67,0.4
+T0625,Groceries,"Blacksburg, VA",124.84,5.2
+T0626,Coffee,"Christiansburg, VA",5.59,7.7
+T0627,Coffee,"Blacksburg, VA",7.65,3.8
+T0628,Coffee,"Blacksburg, VA",9.95,4.9
+T0629,Coffee,"Blacksburg, VA",2.59,0.6
+T0630,Groceries,"Blacksburg, VA",33.5,2.4
+T0631,Groceries,"Christiansburg, VA",50.1,8.2
+T0632,Coffee,"Christiansburg, VA",12.22,6.1
+T0633,Gas,"Christiansburg, VA",59.71,10.0
+T0634,Groceries,"Roanoke, VA",52.5,38.8
+T0635,Groceries,"Radford, VA",29.36,12.8
+T0636,Coffee,"Blacksburg, VA",6.23,5.6
+T0637,Restaurant,"Blacksburg, VA",49.49,5.9
+T0638,Coffee,"Bluefield, WV",12.92,54.0
+T0639,Online/electronics,"Salem, VA",158.6,32.0
+T0640,Groceries,"Christiansburg, VA",67.64,10.4
+T0641,Groceries,"Pearisburg, VA",42.75,23.2
+T0642,Restaurant,"Blacksburg, VA",49.88,1.1
+T0643,Gas,"Bristol, VA",39.93,112.2
+T0644,Coffee,"Blacksburg, VA",5.29,5.1
+T0645,Groceries,"Radford, VA",110.44,17.8
+T0646,Coffee,"Blacksburg, VA",3.76,0.9
+T0647,Coffee,"Roanoke, VA",2.79,39.6
+T0648,Pharmacy,"Blacksburg, VA",14.96,2.4
+T0649,Groceries,"Blacksburg, VA",94.42,1.8
+T0650,Clothing,"Bristol, VA",70.04,114.8
+T0651,Restaurant,"Blacksburg, VA",40.17,5.6
+T0652,Pharmacy,"Wytheville, VA",20.55,52.6
+T0653,Home goods,"Blacksburg, VA",7.56,2.9
+T0654,Restaurant,"Myrtle Beach, SC",54.3,281.4
+T0655,Pharmacy,"Radford, VA",9.86,13.6
+T0656,Groceries,"Christiansburg, VA",46.23,6.7
+T0657,Restaurant,"Christiansburg, VA",46.15,6.0
+T0658,Car repair,"Blacksburg, VA",495.2,3.0
+T0659,Coffee,"Radford, VA",5.21,16.7
+T0660,Gas,"Christiansburg, VA",60.53,9.4
+T0661,Clothing,"Blacksburg, VA",35.17,3.6
+T0662,Home goods,"Blacksburg, VA",116.8,2.1
+T0663,Pharmacy,"Blacksburg, VA",4.99,2.0
+T0664,Restaurant,"Blacksburg, VA",9.94,5.7
+T0665,Restaurant,"Blacksburg, VA",21.65,5.3
+T0666,Online/electronics,"Christiansburg, VA",111.95,9.9
+T0667,Coffee,"Blacksburg, VA",4.21,5.8
+T0668,Groceries,"Blacksburg, VA",55.4,4.9
+T0669,Clothing,"Radford, VA",51.46,13.1
+T0670,Restaurant,"Blacksburg, VA",29.65,0.7
+T0671,Restaurant,"Bluefield, WV",80.81,55.9
+T0672,Home goods,"Blacksburg, VA",53.96,1.2
+T0673,Online/electronics,"Blacksburg, VA",69.67,4.0
+T0674,Groceries,"Blacksburg, VA",31.95,5.3
+T0675,Coffee,"Blacksburg, VA",10.02,4.4
+T0676,Restaurant,"Christiansburg, VA",24.09,11.0
+T0677,Clothing,"Blacksburg, VA",121.2,1.8
+T0678,Clothing,"Christiansburg, VA",73.23,10.6
+T0679,Coffee,"Blacksburg, VA",6.36,1.6
+T0680,Pharmacy,"Blacksburg, VA",25.51,5.2
+T0681,Coffee,"Blacksburg, VA",4.37,1.9
+T0682,Gas,"Blacksburg, VA",34.89,5.0
+T0683,Groceries,"Blacksburg, VA",87.55,4.6
+T0684,Gas,"Christiansburg, VA",39.04,6.5
+T0685,Home goods,"Blacksburg, VA",86.25,1.6
+T0686,Groceries,"Blacksburg, VA",118.39,5.1
+T0687,Groceries,"Blacksburg, VA",81.53,5.2
+T0688,Online/electronics,"Pearisburg, VA",62.0,18.1
+T0689,Coffee,"Blacksburg, VA",9.6,1.2
+T0690,Groceries,"Pearisburg, VA",45.69,23.0
+T0691,Gas,"Christiansburg, VA",63.2,10.9
+T0692,Gift shop,"Myrtle Beach, SC",38.99,280.6
+T0693,Coffee,"Blacksburg, VA",6.3,0.8
+T0694,Home goods,"Blacksburg, VA",64.5,2.5
+T0695,Restaurant,"Blacksburg, VA",16.47,4.2
+T0696,Coffee,"Blacksburg, VA",6.68,4.1
+T0697,Pharmacy,"Christiansburg, VA",7.93,6.6
+T0698,Car repair,"Christiansburg, VA",322.37,6.1
+T0699,Coffee,"Wytheville, VA",3.74,49.0
+T0700,Coffee,"Blacksburg, VA",3.65,4.6
+T0701,Gas,"Christiansburg, VA",43.53,9.6
+T0702,Coffee,"Myrtle Beach, SC",6.4,281.6
+T0703,Car repair,"Blacksburg, VA",773.02,0.4
+T0704,Coffee,"Blacksburg, VA",5.18,2.0
+T0705,Home goods,"Blacksburg, VA",25.91,0.7
+T0706,Groceries,"Radford, VA",62.1,15.9
+T0707,Electronics,"Charlotte, NC",1099.0,150.0
+T0708,Gift cards,"Richmond, VA",500.0,175.0
+T0709,Gas,"Bristol, VA",39.41,110.5
+T0710,Clothing,"Radford, VA",56.72,16.9
+T0711,Groceries,"Christiansburg, VA",38.14,8.0
+T0712,Coffee,"Radford, VA",7.78,14.5
+T0713,Home goods,"Blacksburg, VA",44.78,4.7
+T0714,Restaurant,"Blacksburg, VA",15.95,4.5
+T0715,Pharmacy,"Christiansburg, VA",54.44,8.8
+T0716,Gas,"Blacksburg, VA",41.49,1.9
+T0717,Gas,"Blacksburg, VA",26.8,0.8
+T0718,Coffee,"Pearisburg, VA",5.7,23.6
+T0719,Coffee,"Blacksburg, VA",8.27,1.5
+T0720,Furniture,"Christiansburg, VA",640.0,9.5
+T0721,Coffee,"Blacksburg, VA",6.04,3.6
+T0722,Groceries,"Christiansburg, VA",40.57,10.7
+T0723,Restaurant,"Christiansburg, VA",49.13,8.1
+T0724,Restaurant,"Blacksburg, VA",17.77,2.6
+T0725,Coffee,"Pearisburg, VA",4.58,20.8
+T0726,Coffee,"Blacksburg, VA",6.76,4.5
+T0727,Gas,"Christiansburg, VA",55.2,8.0
+T0728,Coffee,"Blacksburg, VA",7.91,1.8
+T0729,Pharmacy,"Christiansburg, VA",34.38,7.7
+T0730,Restaurant,"Blacksburg, VA",89.43,5.1
+T0731,Clothing,"Radford, VA",49.89,12.3
+T0732,Clothing,"Blacksburg, VA",47.39,2.7
+T0733,Groceries,"Blacksburg, VA",53.1,1.8
+T0734,Online/electronics,"Blacksburg, VA",138.06,2.0
+T0735,Home goods,"Christiansburg, VA",16.67,9.5
+T0736,Coffee,"Blacksburg, VA",5.2,0.5
+T0737,Groceries,"Christiansburg, VA",48.14,7.8
+T0738,Groceries,"Blacksburg, VA",33.58,3.9
+T0739,Clothing,"Lynchburg, VA",54.89,87.5
+T0740,Restaurant,"Christiansburg, VA",85.11,10.2
+T0741,Restaurant,"Radford, VA",73.63,14.0
+T0742,Coffee,"Christiansburg, VA",6.57,8.4
+T0743,Groceries,"Blacksburg, VA",104.89,5.0
+T0744,Coffee,"Christiansburg, VA",8.3,8.4
+T0745,Gas,"Christiansburg, VA",36.62,7.5
+T0746,Groceries,"Blacksburg, VA",50.81,2.0
+T0747,Coffee,"Christiansburg, VA",4.67,9.7
+T0748,Clothing,"Blacksburg, VA",25.31,3.5
+T0749,Home goods,"Blacksburg, VA",37.92,1.7
+T0750,Pharmacy,"Christiansburg, VA",29.05,8.8
+T0751,Home goods,"Blacksburg, VA",41.56,2.7
+T0752,Coffee,"Bluefield, WV",4.0,53.9
+T0753,Coffee,"Christiansburg, VA",3.09,7.9
+T0754,Home goods,"Greensboro, NC",22.48,108.4
+T0755,Coffee,"Wytheville, VA",10.07,50.3
+T0756,Hotel,"Myrtle Beach, SC",412.0,280.7
+T0757,Pharmacy,"Blacksburg, VA",22.91,3.3
+T0758,Groceries,"Christiansburg, VA",54.3,8.2
+T0759,Restaurant,"Radford, VA",36.46,16.5
+T0760,Clothing,"Bluefield, WV",40.05,53.2
+T0761,Pharmacy,"Radford, VA",34.97,15.7
+T0762,Coffee,"Blacksburg, VA",5.67,4.9
+T0763,Clothing,"Christiansburg, VA",115.05,6.2
+T0764,Groceries,"Blacksburg, VA",61.55,1.7
+T0765,Restaurant,"Christiansburg, VA",38.7,6.6
+T0766,Groceries,"Christiansburg, VA",46.67,9.5
+T0767,Gas,"Radford, VA",30.9,13.9
+T0768,Clothing,"Radford, VA",60.17,17.1
+T0769,Car repair,"Blacksburg, VA",244.45,2.0
+T0770,Restaurant,"Blacksburg, VA",48.9,4.3
+T0771,Gas,"Christiansburg, VA",28.68,8.1
+T0772,Groceries,"Christiansburg, VA",40.36,6.5
+T0773,Pharmacy,"Radford, VA",35.0,16.1
+T0774,Gas,"Blacksburg, VA",35.82,1.0
+T0775,Pharmacy,"Blacksburg, VA",11.92,3.6
+T0776,Groceries,"Blacksburg, VA",31.23,2.8
+T0777,Restaurant,"Blacksburg, VA",20.91,2.2
+T0778,Gas,"Christiansburg, VA",70.94,10.6
+T0779,Pharmacy,"Pearisburg, VA",29.47,21.0
+T0780,Coffee,"Blacksburg, VA",4.23,0.3
+T0781,Restaurant,"Blacksburg, VA",8.86,0.4
+T0782,Clothing,"Blacksburg, VA",53.11,1.7
+T0783,Home goods,"Blacksburg, VA",18.53,4.0
+T0784,Home goods,"Blacksburg, VA",53.21,2.6
+T0785,Restaurant,"Blacksburg, VA",57.21,2.5
+T0786,Restaurant,"Blacksburg, VA",77.93,4.6
+T0787,Gas,"Christiansburg, VA",47.57,10.8
+T0788,Restaurant,"Radford, VA",21.13,17.6
+T0789,Clothing,"Blacksburg, VA",42.57,4.2
+T0790,Gas,"Blacksburg, VA",40.02,5.0
+T0791,Gas,"Blacksburg, VA",46.09,2.1
+T0792,Groceries,"Blacksburg, VA",132.95,1.0
+T0793,Home goods,"Blacksburg, VA",53.63,3.7
+T0794,Coffee,"Blacksburg, VA",6.76,4.5
+T0795,Car repair,"Salem, VA",533.75,32.3
+T0796,Coffee,"Radford, VA",11.08,12.4
+T0797,Restaurant,"Lynchburg, VA",69.34,86.5
+T0798,Restaurant,"Radford, VA",27.21,13.9
+T0799,Coffee,"Blacksburg, VA",2.94,5.7
+T0800,Restaurant,"Lynchburg, VA",43.4,87.9
+T0801,Home goods,"Blacksburg, VA",77.93,2.9
+T0802,Online/electronics,"Blacksburg, VA",21.32,1.9
+T0803,Clothing,"Christiansburg, VA",145.66,8.0
+T0804,Coffee,"Blacksburg, VA",5.41,4.8
+T0805,Coffee,"Blacksburg, VA",6.36,5.9
+T0806,Groceries,"Radford, VA",194.1,14.4
+T0807,Groceries,"Blacksburg, VA",67.75,2.9
+T0808,Coffee,"Christiansburg, VA",5.44,11.3
+T0809,Clothing,"Blacksburg, VA",82.93,5.3
+T0810,Groceries,"Blacksburg, VA",153.99,0.9
+T0811,Restaurant,"Christiansburg, VA",33.06,6.2
+T0812,Coffee,"Blacksburg, VA",13.15,4.7
+T0813,Coffee,"Blacksburg, VA",4.8,5.6
+T0814,Gas,"Blacksburg, VA",54.74,1.3
+T0815,Online/electronics,"Blacksburg, VA",77.42,4.5
+T0816,Coffee,"Blacksburg, VA",4.01,1.3
+T0817,Groceries,"Blacksburg, VA",70.58,2.6
+T0818,Gas,"Christiansburg, VA",45.38,9.1
+T0819,Coffee,"Christiansburg, VA",5.33,8.1
+T0820,Coffee,"Pearisburg, VA",11.29,23.7
+T0821,Groceries,"Blacksburg, VA",30.49,1.3
+T0822,Clothing,"Blacksburg, VA",69.01,2.1
+T0823,Restaurant,"Blacksburg, VA",45.55,3.7
+T0824,Restaurant,"Blacksburg, VA",30.41,4.5
+T0825,Coffee,"Christiansburg, VA",9.07,11.3
+T0826,Coffee,"Christiansburg, VA",3.19,11.6
+T0827,Restaurant,"Radford, VA",19.9,14.9
+T0828,Gas,"Radford, VA",36.06,17.5
+T0829,Groceries,"Blacksburg, VA",72.33,1.5
+T0830,Restaurant,"Blacksburg, VA",17.82,5.3
+T0831,Coffee,"Blacksburg, VA",6.02,1.3
+T0832,Groceries,"Blacksburg, VA",50.67,4.0
+T0833,Gas,"Blacksburg, VA",50.69,0.7
+T0834,Gas,"Blacksburg, VA",37.21,0.7
+T0835,Groceries,"Blacksburg, VA",41.55,1.1
+T0836,Clothing,"Radford, VA",34.08,17.3
+T0837,Clothing,"Lynchburg, VA",158.11,87.0
+T0838,Gas,"Blacksburg, VA",41.15,1.5
+T0839,Groceries,"Blacksburg, VA",55.1,3.6
+T0840,Pharmacy,"Christiansburg, VA",16.23,8.2
+T0841,Gas,"Christiansburg, VA",62.58,10.0
+T0842,Coffee,"Charlottesville, VA",10.36,140.0
+T0843,Restaurant,"Pearisburg, VA",17.1,18.8
+T0844,Coffee,"Blacksburg, VA",6.09,3.1
+T0845,Home goods,"Christiansburg, VA",140.01,11.0
+T0846,Home goods,"Blacksburg, VA",55.38,3.6
+T0847,Restaurant,"Christiansburg, VA",20.46,6.6
+T0848,Groceries,"Blacksburg, VA",103.73,0.6
+T0849,Gas,"Blacksburg, VA",39.78,2.7
+T0850,Restaurant,"Blacksburg, VA",29.29,4.7
+T0851,Gas,"Blacksburg, VA",35.36,2.0
+T0852,Groceries,"Wytheville, VA",46.68,48.8
+T0853,Online/electronics,"Blacksburg, VA",96.72,2.0
+T0854,Coffee,"Bluefield, WV",6.95,57.4
+T0855,Restaurant,"Pearisburg, VA",28.15,18.8
+T0856,Electronics,"Miami, FL",799.0,700.0
+T0857,Groceries,"Bluefield, WV",46.45,56.0
+T0858,Coffee,"Blacksburg, VA",8.56,1.8
+T0859,Groceries,"Blacksburg, VA",147.92,0.4
+T0860,Groceries,"Blacksburg, VA",67.03,0.7
+T0861,Clothing,"Christiansburg, VA",26.28,8.6
+T0862,Restaurant,"Salem, VA",56.48,28.5
+T0863,Gas,"Radford, VA",56.83,12.4
+T0864,Coffee,"Blacksburg, VA",9.3,3.3
+T0865,Gas,"Blacksburg, VA",59.94,5.3
+T0866,Pharmacy,"Blacksburg, VA",36.62,5.4
+T0867,Gas,"Blacksburg, VA",26.91,0.4
+T0868,Gas,"Blacksburg, VA",32.09,1.9
+T0869,Groceries,"Blacksburg, VA",150.38,4.0
+T0870,Restaurant,"Blacksburg, VA",71.46,3.8
+T0871,Restaurant,"Christiansburg, VA",91.17,7.0
+T0872,Restaurant,"Blacksburg, VA",10.08,3.4
+T0873,Groceries,"Christiansburg, VA",70.42,8.2
+T0874,Online/electronics,"Blacksburg, VA",174.49,4.2
+T0875,Home goods,"Pearisburg, VA",59.19,18.4
+T0876,Groceries,"Christiansburg, VA",56.61,8.6
+T0877,Home goods,"Blacksburg, VA",30.33,4.1
+T0878,Pharmacy,"Charlottesville, VA",21.73,141.5
+T0879,Coffee,"Blacksburg, VA",7.32,2.0
+T0880,Groceries,"Blacksburg, VA",30.4,2.2
+T0881,Gas,"Blacksburg, VA",41.23,0.6
+T0882,Gas,"Christiansburg, VA",46.96,11.2
+T0883,Pharmacy,"Blacksburg, VA",16.31,2.4
+T0884,Home goods,"Christiansburg, VA",91.03,9.8
+T0885,Groceries,"Blacksburg, VA",95.89,2.2
+T0886,Coffee,"Blacksburg, VA",14.44,1.6
+T0887,Pharmacy,"Christiansburg, VA",9.11,8.1
+T0888,Restaurant,"Blacksburg, VA",17.63,1.1
+T0889,Restaurant,"Roanoke, VA",22.32,37.5
+T0890,Restaurant,"Blacksburg, VA",102.96,4.1
+T0891,Car repair,"Blacksburg, VA",232.1,1.1
+T0892,Coffee,"Blacksburg, VA",7.02,1.7
+T0893,Home goods,"Christiansburg, VA",10.22,6.5
+T0894,Coffee,"Blacksburg, VA",8.29,1.0
+T0895,Gas,"Christiansburg, VA",46.52,11.9
+T0896,Groceries,"Blacksburg, VA",144.05,2.3
+T0897,Coffee,"Blacksburg, VA",8.67,2.2
+T0898,Gas,"Radford, VA",64.98,12.5
+T0899,Groceries,"Christiansburg, VA",41.3,7.7
+T0900,Coffee,"Radford, VA",5.87,14.7
+T0901,Gas,"Blacksburg, VA",39.25,5.3
+T0902,Groceries,"Blacksburg, VA",110.34,2.0
+T0903,Groceries,"Lynchburg, VA",69.91,86.7
+T0904,Gas,"Radford, VA",71.61,12.1
+T0905,Gas,"Blacksburg, VA",44.31,0.8
+T0906,Online/electronics,"Radford, VA",213.75,12.0
+T0907,Gas,"Blacksburg, VA",39.82,2.6
+T0908,Restaurant,"Christiansburg, VA",34.37,9.0
+T0909,Coffee,"Blacksburg, VA",3.87,2.8
+T0910,Pharmacy,"Christiansburg, VA",13.73,11.7
+T0911,Gas,"Blacksburg, VA",36.12,0.5
+T0912,Coffee,"Blacksburg, VA",6.87,0.5
+T0913,Groceries,"Blacksburg, VA",72.66,2.5
+T0914,Home goods,"Blacksburg, VA",19.51,0.7
+T0915,Home goods,"Blacksburg, VA",23.33,5.4
+T0916,Gas,"Radford, VA",36.63,16.9
+T0917,Groceries,"Christiansburg, VA",29.89,7.5
+T0918,Coffee,"Blacksburg, VA",6.92,2.2
+T0919,Clothing,"Christiansburg, VA",55.82,10.1
+T0920,Coffee,"Blacksburg, VA",6.07,1.9
+T0921,Groceries,"Salem, VA",45.21,28.8
+T0922,Groceries,"Blacksburg, VA",110.38,0.7
+T0923,Clothing,"Christiansburg, VA",84.95,6.8
+T0924,Coffee,"Christiansburg, VA",5.52,8.4
+T0925,Gas,"Blacksburg, VA",54.08,2.6
+T0926,Gas,"Blacksburg, VA",37.83,5.1
+T0927,Coffee,"Bristol, VA",3.57,112.5
+T0928,Home goods,"Blacksburg, VA",41.76,5.9
+T0929,Groceries,"Blacksburg, VA",137.74,1.7
+T0930,Groceries,"Blacksburg, VA",41.21,1.4
+T0931,Pharmacy,"Christiansburg, VA",4.8,7.9
+T0932,Restaurant,"Christiansburg, VA",45.55,6.3
+T0933,Restaurant,"Charlottesville, VA",11.51,139.0
+T0934,Groceries,"Christiansburg, VA",108.93,6.7
+T0935,Restaurant,"Blacksburg, VA",12.17,0.6
+T0936,Gas,"Blacksburg, VA",35.37,1.0
+T0937,Restaurant,"Blacksburg, VA",20.6,2.2
+T0938,Groceries,"Blacksburg, VA",185.68,0.9
+T0939,Coffee,"Blacksburg, VA",6.61,5.1
+T0940,Pharmacy,"Blacksburg, VA",25.31,1.3
+T0941,Clothing,"Lynchburg, VA",32.94,86.1
+T0942,Clothing,"Blacksburg, VA",161.03,1.4
+T0943,Groceries,"Radford, VA",121.14,13.1
+T0944,Restaurant,"Blacksburg, VA",37.78,2.5
+T0945,Groceries,"Bristol, VA",72.08,114.5
+T0946,Coffee,"Blacksburg, VA",6.19,2.4
+T0947,Gas,"Blacksburg, VA",37.05,0.9
+T0948,Coffee,"Blacksburg, VA",13.46,2.7
+T0949,Gas,"Blacksburg, VA",46.06,6.0
+T0950,Home goods,"Christiansburg, VA",44.05,11.2
+T0951,Home goods,"Blacksburg, VA",84.84,1.6
+T0952,Gas,"Blacksburg, VA",40.1,3.9
+T0953,Clothing,"Blacksburg, VA",31.27,5.5
+T0954,Pharmacy,"Christiansburg, VA",11.8,8.7
+T0955,Groceries,"Radford, VA",124.3,12.2
+T0956,Gift cards,"Nashville, TN",600.0,305.0
+T0957,Home goods,"Blacksburg, VA",21.45,5.7
+T0958,Restaurant,"Blacksburg, VA",26.25,1.4
+T0959,Online/electronics,"Christiansburg, VA",166.31,8.7
+T0960,Groceries,"Pearisburg, VA",51.01,23.1
+T0961,Restaurant,"Radford, VA",22.6,12.2
+T0962,Restaurant,"Blacksburg, VA",12.67,2.1
+T0963,Gas,"Christiansburg, VA",31.76,9.2
+T0964,Coffee,"Blacksburg, VA",5.38,2.0
+T0965,Home goods,"Blacksburg, VA",50.73,5.7
+T0966,Groceries,"Christiansburg, VA",94.75,6.9
+T0967,Restaurant,"Roanoke, VA",19.41,36.6
+T0968,Coffee,"Blacksburg, VA",6.75,3.6
+T0969,Online/electronics,"Wytheville, VA",263.46,49.4
+T0970,Coffee,"Blacksburg, VA",5.59,4.7
+T0971,Pharmacy,"Blacksburg, VA",18.71,4.7
+T0972,Gas,"Christiansburg, VA",47.24,11.0
+T0973,Home goods,"Christiansburg, VA",19.19,8.4
+T0974,Pharmacy,"Blacksburg, VA",10.8,2.8
+T0975,Gas,"Blacksburg, VA",44.36,4.7
+T0976,Home goods,"Christiansburg, VA",176.62,10.2
+T0977,Groceries,"Blacksburg, VA",94.27,0.8
+T0978,Restaurant,"Blacksburg, VA",30.88,5.5
+T0979,Restaurant,"Salem, VA",15.35,30.2
+T0980,Pharmacy,"Christiansburg, VA",35.29,6.5
+T0981,Restaurant,"Christiansburg, VA",129.23,8.4
+T0982,Restaurant,"Pearisburg, VA",8.6,22.8
+T0983,Clothing,"Pearisburg, VA",43.77,20.9
+T0984,Groceries,"Blacksburg, VA",161.33,3.8
+T0985,Gas,"Blacksburg, VA",37.65,1.3
+T0986,Home goods,"Blacksburg, VA",48.94,5.9
+T0987,Coffee,"Christiansburg, VA",9.12,6.7
+T0988,Home goods,"Christiansburg, VA",58.72,8.5
+T0989,Car repair,"Blacksburg, VA",176.71,5.4
+T0990,Clothing,"Christiansburg, VA",57.61,7.0
+T0991,Pharmacy,"Blacksburg, VA",21.67,3.8
+T0992,Home goods,"Blacksburg, VA",100.4,4.0
+T0993,Coffee,"Blacksburg, VA",7.22,5.3
+T0994,Restaurant,"Blacksburg, VA",24.3,4.8
+T0995,Gas,"Blacksburg, VA",46.19,4.1
+T0996,Coffee,"Blacksburg, VA",12.85,2.3
+T0997,Restaurant,"Lynchburg, VA",6.5,85.9
+T0998,Coffee,"Blacksburg, VA",4.6,0.5
+T0999,Pharmacy,"Blacksburg, VA",12.32,2.1
+T1000,Pharmacy,"Blacksburg, VA",21.32,4.4
+T1001,Home goods,"Blacksburg, VA",82.13,1.3
+T1002,Pharmacy,"Christiansburg, VA",19.02,6.2
+T1003,Gas,"Blacksburg, VA",51.32,3.8
+T1004,Groceries,"Blacksburg, VA",64.39,3.5
+T1005,Gas,"Blacksburg, VA",32.68,2.6
+T1006,Gas,"Christiansburg, VA",43.31,10.7
+T1007,Coffee,"Blacksburg, VA",3.31,5.1
+T1008,Clothing,"Lynchburg, VA",74.11,84.4
+T1009,Online/electronics,"Blacksburg, VA",112.06,3.9
+T1010,Pharmacy,"Blacksburg, VA",17.3,3.3
+T1011,Restaurant,"Christiansburg, VA",23.58,7.1
+T1012,Gas,"Roanoke, VA",48.85,39.3
+T1013,Groceries,"Radford, VA",64.61,16.5
+T1014,Coffee,"Christiansburg, VA",4.16,11.5
+T1015,Groceries,"Blacksburg, VA",69.71,0.3
+T1016,Coffee,"Charlottesville, VA",5.73,141.6
+T1017,Gas,"Blacksburg, VA",51.76,3.5
+T1018,Clothing,"Greensboro, NC",22.6,109.6
+T1019,Pharmacy,"Blacksburg, VA",19.41,5.8
+T1020,Groceries,"Christiansburg, VA",89.51,9.0
+T1021,Groceries,"Radford, VA",49.87,12.5
+T1022,Groceries,"Blacksburg, VA",93.0,5.2
